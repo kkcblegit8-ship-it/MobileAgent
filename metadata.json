@@ -1,0 +1,6 @@
+{
+  "name": "NexusCode",
+  "description": "Autonomous local mobile AI agent with a floating cross-app overlay HUD, Accessibility Service automation, voice commands, and local code workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NexusCode</string>
+    <string name="accessibility_service_label">NexusCode Cross-App Agent</string>
+    <string name="accessibility_service_description">Allows NexusCode AI Agent to inspect active screen elements, automate clicks, type text, and perform tasks across installed apps.</string>
+    <string name="overlay_notification_title">NexusCode Floating Agent Active</string>
+    <string name="overlay_notification_text">Tap the floating cyber-orb over any app to open quick prompt &amp; voice control.</string>
+    <string name="nav_terminal">Agent</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_apps">Apps &amp; Overlay</string>
+    <string name="nav_macros">Automations</string>
+</resources>
